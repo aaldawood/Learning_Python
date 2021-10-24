@@ -1,0 +1,33 @@
+Quincy explores Felix Feng's journey from bootcamp grad to professional developer, and how he went from getting $60,000 job offers to $125,000 job offers through sheer practice and persistence.
+Article by Felix Feng: https://twitter.com/felix2feng
+Read by Quincy Larson: https://twitter.com/ossia
+Article link: https://fcc.im/2iX0LtS
+Learn to code for free at: https://www.freecodecamp.org
+Intro music by Vangough: https://fcc.im/2APOG02
+Resources mentioned:
+https://www.interviewcake.com
+https://www.hiredintech.com/classrooms/system-design/lesson/60
+https://www.educative.io/collection/5642554087309312/5679846214598656
+https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
+https://leetcode.com
+The email tool Felix uses: https://rapportive.com/
+Transcript: 
+A less-talked about part of the bootcamper’s journey is what happens after you graduate — when you’re searching for that six-figure developer position.
+< 3% of applications became offers
+I completed Hack Reactor in July 2016 and took almost 3 months before accepting an offer with Radius Intelligence. I applied to 291 companies, did 32 phone screens, 16 technical screens, 13 coding challenges, 11 on-sites, and received 8 offers. The offers ranged from $60-125k in salary from companies all over the US, and for both front end and full stack roles. In total, 2.8% of applications became offers.
+Here are 5 things I wish I’d known before I began my job search.
+Insight #1: Get through to real people
+At first, I applied for companies using the shotgun approach. I applied through Indeed.com, AngelList, LinkedIn, StackOverflow, Hacker News, company websites, and even Craigslist.
+I’d submit a resume for any role that wanted React, Node, or JavaScript experience. In the first week, I applied to 15–20 companies a day.
+Pro-Tip: Find companies using this easy-application repo.
+My yield was low. Less than five percent of companies responded to me. I was throwing applications into a black hole.
+Everything changed when one of my cohort-mates, a former recruiter, shared a guide to the job search. He told us to send emails directly to real people with each application. It could be anybody. As long as someone read it.
+From then on, whenever I submitted an application, I searched for the company on LinkedIn and emailed someone on their engineering or hiring team.
+For most small companies or C-level executives, the email format is usually firstName@dreamCompany.com. For larger companies, it may be firstName.lastName@dreamCompany.com.
+To verify emails, I used Rapportive to cross-check emails with social media accounts.
+The results were amazing. With 150+ emails sent, my response rate was a whopping 22%.
+It also felt great to hear from real people. Surprisingly, CEOs and CTOs responded to me. Sometimes they even interviewed me themselves.
+Takeaway: If you’re applying through the front door, make sure you’re getting to human beings.
+Insight #2: Start small and work your way up
+You will face Level 1 interviews (a non-tech co
